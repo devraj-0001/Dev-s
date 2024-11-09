@@ -18,12 +18,7 @@ I'm a passionate **Full Stack Developer** skilled in building end-to-end applica
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devdhanak&show_icons=true&theme=radical&cache_seconds=1800" alt="Dev's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdhanak&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="165" />
-</div>
 
 ---
 
@@ -50,6 +45,7 @@ I'm a passionate **Full Stack Developer** skilled in building end-to-end applica
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdhanak/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/devdhanak)
+[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/devdhanak)
 
 ---
 
