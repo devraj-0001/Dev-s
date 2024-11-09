@@ -22,10 +22,13 @@ I'm a passionate **Full Stack Developer** skilled in building end-to-end applica
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devdhanak&show_icons=true&theme=radical" alt="Dev's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdhanak&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devdhanak&show_icons=true&theme=radical&cache_seconds=1800" alt="Dev's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdhanak&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="165" />
 </div>
+
 
 ---
 
