@@ -1,5 +1,3 @@
-# Dev-s
-Hello world , this is my profile
 # 👋 Hi there, I'm Dev Dhanak!
 
 **Welcome to my GitHub Profile!**  
@@ -22,13 +20,10 @@ I'm a passionate **Full Stack Developer** skilled in building end-to-end applica
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devdhanak&show_icons=true&theme=radical&cache_seconds=1800" alt="Dev's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdhanak&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="165" />
 </div>
-
 
 ---
 
@@ -41,6 +36,14 @@ I'm a passionate **Full Stack Developer** skilled in building end-to-end applica
 - **CMS Web App**  
   A dynamic content management system built using the MERN stack, designed to simplify content creation, editing, and publishing.  
   [![View Project](https://img.shields.io/badge/View_Project-000?style=flat&logo=github&logoColor=white)](https://github.com/devdhanak/CMS-App)
+
+- **Food Delivery App**  
+  A native app designed for food delivery, allowing users to browse, order, and track food from local restaurants. Includes user-friendly features such as real-time order tracking and payment integration.  
+  [![View Project](https://img.shields.io/badge/View_Project-000?style=flat&logo=github&logoColor=white)](https://github.com/devdhanak/Food-Delivery-App)
+
+- **Next.js Management App**  
+  A powerful application for managing tasks, users, and content, utilizing Next.js for server-side rendering and efficient content delivery.  
+  [![View Project](https://img.shields.io/badge/View_Project-000?style=flat&logo=github&logoColor=white)](https://github.com/devdhanak/Next-Management-App)
 
 ---
 
