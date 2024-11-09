@@ -18,10 +18,6 @@ I'm a passionate **Full Stack Developer** skilled in building end-to-end applica
 
 ---
 
-
-
----
-
 ## 💻 Major Projects
 
 - **GENAI-based Medical Assistant**  
@@ -40,12 +36,12 @@ I'm a passionate **Full Stack Developer** skilled in building end-to-end applica
   A powerful application for managing tasks, users, and content, utilizing Next.js for server-side rendering and efficient content delivery.  
   [![View Project](https://img.shields.io/badge/View_Project-000?style=flat&logo=github&logoColor=white)](https://github.com/devdhanak/Next-Management-App)
 
----
+--
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdhanak/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/devdhanak)
-[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/devdhanak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-dhanak-87115a256/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dev.raj05)
+
 
 ---
 
